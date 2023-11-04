@@ -28,7 +28,7 @@ public class Assignment1 {
 	 // Performing the substraction
 	 int substraction = number1 - number2; 
 	 System.out.println(number1 + " - " + number2 + " = "+ substraction);
-	 
+	 // Performing the division
 	 double division = number1 / number2; 
 	 System.out.println(number1 + " / " + number2 + " = " + division);
 	}
